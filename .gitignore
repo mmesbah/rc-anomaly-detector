@@ -1,0 +1,9 @@
+# Mac OS
+.DS_Store
+
+# JetBrains IDE
+.idea/
+
+# Main data source
+rc-sanjagh.log
+rc-sanjagh.log.pp
